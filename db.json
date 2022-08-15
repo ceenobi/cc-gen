@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "img": [
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659961803/samples/zuri/Rectangle_11_rsiyo4.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/v1660146473/samples/zuri/BACK2_lvm2tq.png"
+      ],
+      "title": "card1",
+      "category": "Nickname"
+    },
+    {
+      "id": 2,
+      "img": [
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659961808/samples/zuri/rec12_kbcuku.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/v1660146675/samples/zuri/Frame_510_cmcu5o.png"
+      ],
+      "title": "card2",
+      "category": "Slang"
+    },
+    {
+      "id": 3,
+      "img": [
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659961803/samples/zuri/rec13_lzqab8.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659963067/samples/zuri/rec14_na9eef.png"
+      ],
+      "title": "card3",
+      "category": "Business Names"
+    },
+    {
+      "id": 4,
+      "img": [
+        "https://res.cloudinary.com/ceenobi/image/upload/v1660079435/samples/zuri/rec20_wjkz66.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/q_auto/v1660201893/samples/zuri/Frame_508_th75yv.png"
+      ],
+      "title": "card4",
+      "category": "Slang"
+    },
+    {
+      "id": 5,
+      "img": [
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659963320/samples/zuri/rec16_gnv1ov.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659963067/samples/zuri/rec14_na9eef.png"
+      ],
+      "title": "card5",
+      "category": "Nickname"
+    },
+    {
+      "id": 6,
+      "img": [
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659963320/samples/zuri/rec15_qbc099.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659963067/samples/zuri/rec14_na9eef.png"
+      ],
+      "title": "card6",
+      "category": "Doodles"
+    },
+    {
+      "id": 7,
+      "img": [
+        "https://res.cloudinary.com/ceenobi/image/upload/v1660045398/samples/zuri/rec17_qjf9fb.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659963067/samples/zuri/rec14_na9eef.png"
+      ],
+      "title": "card7",
+      "category": "Doodles"
+    },
+    {
+      "id": 8,
+      "img": [
+        "https://res.cloudinary.com/ceenobi/image/upload/v1660045398/samples/zuri/rec19_houtjh.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/q_auto/v1660201893/samples/zuri/Frame_508_th75yv.png"
+      ],
+      "title": "card8",
+      "category": "Comics"
+    },
+    {
+      "id": 9,
+      "img": [
+        "https://res.cloudinary.com/ceenobi/image/upload/v1660045398/samples/zuri/rec18_g4nrfx.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659963067/samples/zuri/rec14_na9eef.png"
+      ],
+      "title": "card9",
+      "category": "Comics"
+    },
+    {
+      "id": 10,
+      "img": [
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659932001/samples/zuri/CARD2_4_1_l3grtz.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659963067/samples/zuri/rec14_na9eef.png"
+      ],
+      "title": "card10",
+      "category": "Fantasy"
+    },
+    {
+      "id": 11,
+      "img": [
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659932001/samples/zuri/CARD2019_rusxpu.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659963067/samples/zuri/rec14_na9eef.png"
+      ],
+      "title": "card11",
+      "category": "Fantasy"
+    },
+    {
+      "id": 12,
+      "img": [
+        "https://res.cloudinary.com/ceenobi/image/upload/q_auto/v1660129790/samples/zuri/rec21_dzr57v.png",
+        "https://res.cloudinary.com/ceenobi/image/upload/v1659963067/samples/zuri/rec14_na9eef.png"
+      ],
+      "title": "card12",
+      "category": "Fantasy"
+    }
+  ]
+}
